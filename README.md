@@ -1,2 +1,2 @@
 # Modelagem-E-Implementacao-Iphone
-Diagrama UML detalhado e Código-fonte simulando o componentes usados na criação do primeiro iphone.
+Diagrama UML detalhado e Código-fonte simulando os componentes usados na criação do primeiro iphone.
